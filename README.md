@@ -27,17 +27,21 @@
   3. In your terminal, navigate to the `app` directory and type `python -m SimpleHTTPServer`.
   4. In your browser, navigate to `localhost:8000`. 
 
-## Requirements
-
-
 
 ## Development
+We implemented the following features during BondFires's development:
+  * Interactive map that shows locations of graduates from software engineering immersive programs
+  * Listings for each location that shows the profiles of graduates in that area
+  * Ability for new graduates to add themselves to the map and database
+  * Ability for users to add a blog posting to the blog section
+  * Toy problem of the day with a sandbox for users to code the solution
 
+BondFire uses the following techcnologies:
+  * Angular
+  * jQLite
+  * Github API
+  * Firebase
 
-
-### Roadmap
-
-View the project roadmap [here](LINK_TO_PROJECT_ISSUES)
 
 
 ## Contributing
