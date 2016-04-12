@@ -6,7 +6,7 @@
 
   - __Product Owner__: Kristina McElveen
   - __Scrum Master__: Shanna Sullivan
-  - __Development Team Members__: Kristina McEleven, Darryl Nunn, Bosa Omoregie, Shanna Sullivan
+  - __Development Team Members__: Kristina McElveen, Darryl Nunn, Bosa Omoregie, Shanna Sullivan
 
 ## Table of Contents
 
